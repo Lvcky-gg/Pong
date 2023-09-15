@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 kivy = "*"
+buildozer = "*"
+cython = "*"
+sdkmanager = "*"
 
 [dev-packages]
 
